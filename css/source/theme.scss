@@ -25,22 +25,24 @@
         font-style: normal;
 }
 
-@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,700,400italic,700italic,900);
 // ---------------------------------------------
 
 $orange: #f79838;
+$mainColor: #333;
 // Override theme settings ---------------------
 $heading1TextShadow: 2px 2px 0 #333;
 // Other options include e.g.
 $mainFont: 'Open Sans', sans-serif;
-// $linkColor: #ed1dff;
+$headingColor: $mainColor;
+$linkColor: #45c2c5;
 // $linkColorHover: $linkColor;
 $headingFont: 'Open Sans', Impact, sans-serif;
 // $headingTextShadow: none;
 // $headingLetterSpacing: -0.03em;
 // $headingTextTransform: none;
 // $selectionBackgroundColor: #e0ad52;
-// $mainFontSize: 30px;
+$mainFontSize: 30px;
 // See ../../bower_components/reveal.js/css/theme/template/settings.scss for the full list.
 // ---------------------------------------------
 
@@ -64,6 +66,17 @@ body {
 
 .reveal h1 {
   color: $orange;
-  font-weight: 700;
-  font-size: 3em;
+  font-weight: 900;
+}
+
+.reveal h2 {
+  font-weight: 900;
+}
+
+.reveal ul li {
+  line-height: 2;
+}
+
+.reveal p {
+  margin-top: 30px;
 }
