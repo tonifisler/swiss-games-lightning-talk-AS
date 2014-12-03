@@ -1,3 +1,5 @@
 ##  Drei
 
-This is a new Markdown slide
+![Drei](img/drei.jpg)
+
+[etterstudio.com](http://www.etterstudio.com/en/)
