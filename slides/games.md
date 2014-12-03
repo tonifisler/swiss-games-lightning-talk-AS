@@ -1,8 +1,5 @@
-##  Games
+##  The Firm
 
-- The Firm
-- Nandeyanen!?
-- First Strike
-- Drei
-- Antyz
-- Don't Kill Her
+![The Firm](img/thefirm.png)
+
+[sunnysidegames.ch](http://www.sunnysidegames.ch/portfolio/thefirm/)

@@ -1,3 +1,5 @@
 ##  First Strike
 
-This is a new Markdown slide
+![First Strike](img/firststrike.jpg)
+
+[firststrike.mobi](http://www.firststrike.mobi)

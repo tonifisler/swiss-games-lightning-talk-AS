@@ -1,3 +1,5 @@
 ##  Don't Kill Her
 
-This is a new Markdown slide
+![dkh](img/dkh.jpg)
+
+[wuthrer.net/dontkillher](http://www.wuthrer.net/dontkillher/)
